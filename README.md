@@ -31,6 +31,8 @@ In this project, you build an app that let's you display a todo list from reduce
 3. Build a function that let's you mark todo items as completed when you click on them
 4. Build a function that let's you clear completed todos when you click on a "Clear Completed" button
 
+
+
 #### Build a simple reducer and initial state
 
 - In a folder called `reducers` add a reducer file and build out a simple reducer with just a default return for now
